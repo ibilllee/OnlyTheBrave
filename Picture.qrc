@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Material/Picture/aircraft.png</file>
+        <file>Material/Picture/background.jpg</file>
+        <file>Material/Picture/bullet_1.png</file>
+        <file>Material/Picture/bullet_2.png</file>
+        <file>Material/Picture/coin.png</file>
+        <file>Material/Picture/floor.jpg</file>
+        <file>Material/Picture/mainpage (2).png</file>
+        <file>Material/Picture/mainpage.png</file>
+        <file>Material/Picture/man_1.png</file>
+        <file>Material/Picture/man_2.png</file>
+        <file>Material/Picture/obstical_1.png</file>
+        <file>Material/Picture/obstical_2.png</file>
+        <file>Material/Picture/obstical_3.png</file>
+        <file>Material/Picture/obstical_4.png</file>
+        <file>Material/Picture/obstical_5.png</file>
+        <file>Material/Picture/protection.png</file>
+        <file>Material/Picture/stone_1.png</file>
+        <file>Material/Picture/stone_2.png</file>
+        <file>Material/Picture/stone_3.png</file>
+        <file>Material/Picture/stone_4.png</file>
+        <file>Material/Picture/stone_5.png</file>
+        <file>Material/Picture/stone_6.png</file>
+        <file>Material/Picture/stone_7.png</file>
+        <file>Material/Picture/stone_8.png</file>
+        <file>Material/Picture/warning.png</file>
+        <file>Material/Picture/PressButton.png</file>
+        <file>Material/Picture/start_game.png</file>
+        <file>Material/Picture/about.png</file>
+        <file>Material/Picture/view-record.png</file>
+        <file>Material/Picture/yes_music.png</file>
+        <file>Material/Picture/no_music.png</file>
+        <file>Material/Picture/man_3.png</file>
+        <file>Material/Picture/man_4.png</file>
+        <file>Material/Picture/status_bar.png</file>
+        <file>Material/Picture/game_over_pic.png</file>
+        <file>Material/Picture/record_background.png</file>
+        <file>Material/Picture/PressButto_lite.png</file>
+        <file>Material/Picture/back_txt.png</file>
+        <file>Material/Picture/clear_txt.png</file>
+        <file>Material/Picture/mainpage_without_txt.png</file>
+        <file>Material/Picture/002sfI7Jzy7qAo7kfLYaa&amp;690.jpg</file>
+        <file>Material/Picture/x^4.png</file>
+        <file>Material/Picture/AboutAndTxt.png</file>
+        <file>Material/Picture/clear_cache_txt.png</file>
+    </qresource>
+</RCC>

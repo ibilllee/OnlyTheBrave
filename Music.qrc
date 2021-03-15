@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Material/Music/background.wav</file>
+        <file>Material/Music/boom.wav</file>
+        <file>Material/Music/coin.wav</file>
+        <file>Material/Music/shoot.wav</file>
+        <file>Material/Music/gameMusic_1.wav</file>
+        <file>Material/Music/gameMusic_2.wav</file>
+        <file>Material/Music/gameMusic_3.wav</file>
+        <file>Material/Music/gameMusic_4.wav</file>
+        <file>Material/Music/rocket.wav</file>
+    </qresource>
+</RCC>
