@@ -4,7 +4,7 @@
 ![说明图片4](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide4.png)
 ![说明图片5](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide5.png)
 ![说明图片6](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide6.png)
-![说明图片7](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide7.png)
+![说明图片7](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide7.GIF)
 ![说明图片8](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide8.png)
 ![说明图片9](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide9.png)
 ![说明图片10](https://gitee.com/ibilllee/img/raw/master/OnlyTheBrave/Slide10.png)
